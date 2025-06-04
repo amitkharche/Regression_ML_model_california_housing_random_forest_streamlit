@@ -152,7 +152,7 @@ Get instant predictions for **Median House Value**.
 
 | Median Income | House Age | Latitude | Longitude | Total Rooms |
 | ------------- | --------- | -------- | --------- | ----------- |
-| 5.5           | 25        | 34.5     | -118.3    | 1200        |
+| 5.5           | 25        | 34.5     | -118.3    | 2      |
 
 👉 Returns predicted **Median House Price** (e.g., \$230,000)
 
