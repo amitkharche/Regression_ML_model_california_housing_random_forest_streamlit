@@ -161,7 +161,7 @@ Get instant predictions for **Median House Value**.
 ## 🖼️ Streamlit App UI
 
 <p align="center">
-  <img src="App_UI.jpg" alt="House Price Prediction App UI" width="600"/>
+  <img src="App_UI.jpg" alt="House Price Prediction App UI" width="700"/>
 </p>
 
 ---
